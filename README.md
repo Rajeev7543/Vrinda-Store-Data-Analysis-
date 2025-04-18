@@ -48,4 +48,7 @@ Performed descriptive analytics for actionable business insights.
 
 Showcased effective data storytelling and visualization.
 
+## Dashboard
+![image](https://github.com/user-attachments/assets/7affcbbc-0e9b-4ab7-b292-11cd1ea4e62c)
+
 
