@@ -1,6 +1,6 @@
 ## Vrinda-Store-Data-Analysis-
 This project presents a comprehensive Power BI dashboard analyzing the annual sales performance of Vrinda Store for the year 2025. The dashboard provides deep insights into sales trends, customer demographics, order fulfillment status, and platform performance.
-Key Insights
+# Key Insights
 Monthly Sales & Orders
 
 March recorded the highest sales and order volume.
@@ -32,16 +32,16 @@ Sales by Channel
 Amazon (35%) is the top-selling platform, followed by Myntra (23%), Flipkart (22%), and others.
 
 Filters Available
-Month-wise
+# Month-wise
 
 Sales Channel (Amazon, Flipkart, Myntra, etc.)
 
 Product Category (Kurta, Ethnic Dress, Blouse, etc.)
 
-Purpose
+# Purpose
 This project demonstrates data visualization and analytics skills using real-world retail data. It helps identify business performance gaps, customer behavior patterns, and growth opportunities.
 
-Outcomes
+# Outcomes
 Built a dynamic, filterable dashboard in Power BI.
 
 Performed descriptive analytics for actionable business insights.
